@@ -17,7 +17,9 @@ I'm a student software developer based in Hong Kong. I'm passionate about learni
 - **Open Source:** I like contributing to open source projects and collaborating with others.
 
 ## Active Projects
-
+- mi-pad-custom-boot [Repo](https://github.com/G0246/mipad-custom-boot)
+- phyelev-module
+- some others i forgot
 
 ## Contact
 Feel free to reach out to me on [GitHub](https://github.com/G0246).
