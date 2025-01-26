@@ -1,4 +1,5 @@
 <!-- Third Party Javascript -->
+<!--
 {{- $partials := slice -}}
 {{- $files := readDir "layouts/partials/third_party_js" -}}
 {{- range $files -}}
@@ -9,3 +10,5 @@
 {{- range $partials -}}
     {{ partial (printf "third_party_js/%s.html" .) }}
 {{- end -}}
+
+-->

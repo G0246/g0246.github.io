@@ -6,17 +6,21 @@ timeZone: "Asia/Hong_Kong"
 menus:
   main:
     - identifier: about
-      name: About
+      name: About Me
       url: /about.html
       weight: 20
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: others
+      name: Others
+      url: /others.html
       weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags
-      weight: 40
+    # - identifier: blog
+    #   name: Blog
+    #   url: /blog
+    #   weight: 30
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 40
 paginate: 10
 permalinks:
   blog: "/blog/:year/:month/:day/:title/"
@@ -63,7 +67,8 @@ params:
       url: https://buymeacoffee.com/veutexus
     - name: "ko fi"
       url: https://ko-fi.com/veutexus
-  # disqus: "mydisquscode"
+
+  disqus: "UNUSED"
 
 module:
   hugoVersion:
