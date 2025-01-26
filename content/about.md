@@ -8,8 +8,6 @@ author = "Veutexus"
 
 # Hello! I'm Veutexus
 
-<img src="../imgs/profile.png" alt="Profile" width="150" height="150">
-
 ## About Me
 I'm a student developer based in Hong Kong. I'm passionate about learning new technologies and improving my coding skills. I also study Design and Technologies, where I explore the intersection of functionality and aesthetics. My goal is to create innovative solutions that enhance user experience while embracing modern design principles.
 
