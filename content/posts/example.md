@@ -1,6 +1,6 @@
 ---
 title: "Typography"
-date: 2025-01-26T13:18:41+08:00
+date: 2025-01-25T12:54:12+08:00
 description: "Example post"
 tags: [example]
 ---

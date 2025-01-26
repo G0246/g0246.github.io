@@ -20,6 +20,11 @@ paginate = 3 # articles per page
 	katex = true # enable KaTeX support
 	favicon = "/icons/favicon.png"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Social Tags
 
 [[params.social]]

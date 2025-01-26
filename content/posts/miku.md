@@ -8,3 +8,4 @@ tags: [miku, hatsune-miku]
 ## Hatsune Miku
 Hatsune Miku (Japanese: 初音ミク, [hatsɯne miꜜkɯ]), sometimes called Miku Hatsune, officially code-named CV01, is a Vocaloid software voicebank developed by Crypton Future Media and its official mascot character, a sixteen-year-old girl with long, turquoise twintails.
 
+<img src="../../../imgs/miku.gif" alt="GIF" width="153" height="200">
