@@ -51,6 +51,8 @@ params:
   social:
     - name: github
       url: https://github.com/G0246
+    - name: gitlab
+      url: https://gitlab.com/G0246
     # - name: x
     #   url: https://x.com/myusername
     # - name: youtube
