@@ -2,7 +2,7 @@ baseURL = "https://g0246.github.io/"
 languageCode = "en-us"
 title = "Veutexus"
 theme="archie"
-copyright = "© G0246 All rights reserved."
+copyright = "© G0246"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
