@@ -1,0 +1,11 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ .Description }}">
+<!-- Geo tags -->
+<meta name="ICBM" content="22.302711, 114.177216">
+<meta name="geo.position" content="22.302711;114.177216">
+<meta name="geo.region" content="HK">
+<meta name="geo.placename" content="Hong Kong">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+{{ partialCached "head/css.html" . }}
