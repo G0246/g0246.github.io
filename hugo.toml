@@ -18,7 +18,7 @@ paginate = 3 # articles per page
 	subtitle = "Welcome to my personal site! This is a website where you may learn about my journeys and other active projects. You can also see what I'm up to when I publish a new post."
 	mathjax = false # enable MathJax support
 	katex = true # enable KaTeX support
-	# favicon = "/icons/favicon.png"
+	favicon = "/icons/favicon.png"
 
 # Social Tags
 
