@@ -7,6 +7,7 @@ author = "Veutexus"
 +++
 
 # Hello! I'm Veutexus
+
 <img src="../static/imgs/profilepic.png" alt="Profile" width="150" height="150">
 
 ## About Me
