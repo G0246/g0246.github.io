@@ -8,7 +8,9 @@ tags: [project]
 # This post will automatically update.
 
 ## ACTIVE PROJECTS
-
-
+- mi-pad-custom-boot ([Repo link](https://github.com/G0246/mipad-custom-boot))
+- phyelev-module
+- custom-discord-bot
 
 ## ARCHIVED PROJECTS
+- 
