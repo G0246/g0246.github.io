@@ -13,4 +13,4 @@ tags: [project]
 - custom-discord-bot
 
 ## ARCHIVED PROJECTS
-- 
+- N/A
