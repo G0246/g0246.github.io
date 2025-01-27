@@ -1,8 +1,10 @@
 ---
-title: "Project list"
-date: 2025-01-27T01:44:42+08:00
+title: "Project List"
+date: 2025-01-27T01:44:42Z
 description: "A list of all my projects"
+draft: false
 tags: [project]
+author: "Veutexus"
 ---
 
 <div class="boringinfo">

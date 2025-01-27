@@ -1,8 +1,10 @@
 ---
 title: "Hatsune Miku"
-date: 2025-01-26T13:18:41+08:00
 description: "Introduction of Hatsune Miku"
+date: 2025-01-26T13:18:41Z
+draft: false
 tags: [miku, hatsune-miku]
+author: "Veutexus"
 ---
 
 ## Hatsune Miku
