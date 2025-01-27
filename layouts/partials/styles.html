@@ -1,0 +1,2 @@
+{{ $styles := resources.Get "css/fonts.css" | fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
