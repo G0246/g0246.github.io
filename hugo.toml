@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 paginate = 3 # articles per page
 
 [params]
-	mode = "auto" # color-mode → light,dark,toggle or auto
+	mode = "toggle" # color-mode → light,dark,toggle or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Welcome to my personal site! This is a website where you may learn about my journeys and other active projects. You can also see what I'm up to when I publish a new post."
 	mathjax = false # enable MathJax support
