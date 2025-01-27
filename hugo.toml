@@ -42,15 +42,15 @@ pygmentscodefencesguesssyntax = true
   icon = "gitlab"
   url = "https://gitlab.com/G0246"
 
-[[params.social]]
-  name = "Buy me a coffee"
-  icon = "buymeacoffee"
-  url = "https://buymeacoffee.com/veutexus"
+# [[params.social]]
+#   name = "Buy me a coffee"
+#   icon = "buymeacoffee"
+#   url = "https://buymeacoffee.com/veutexus"
 
-[[params.social]]
-  name = "Ko-fi"
-  icon = "kofi"
-  url = "https://ko-fi.com/veutexus"
+# [[params.social]]
+#   name = "Ko-fi"
+#   icon = "kofi"
+#   url = "https://ko-fi.com/veutexus"
 
 # Main menu items
 
