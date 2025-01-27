@@ -4,7 +4,7 @@ title = "Veutexus"
 theme="archie"
 copyright = "© G0246"
 # Code Highlight
-pygmentsstyle = "monokai"
+pygmentsstyle = "github-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
