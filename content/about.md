@@ -26,3 +26,8 @@ I enjoy working on projects that challenge my creativity and technical abilities
 
 ## Contact
 Feel free to reach out to me on [GitHub](https://github.com/G0246).
+
+## Support Me
+Your donation can truly make a difference!
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/veutexus)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/veutexus) 

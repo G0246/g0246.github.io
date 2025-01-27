@@ -11,62 +11,65 @@ pygmentscodefencesguesssyntax = true
 
 # disqusShortname = ""
 
-paginate = 3 # articles per page
+[pagination]
+  disableAliases = false
+  pagerSize = 3
+  path = "page"
 
 [params]
-mode = "auto" # color-mode → light,dark,toggle or auto
-useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
-subtitle = "Welcome to my personal site! This is a website where you may learn about my journeys and other active projects. You can also see what I'm up to when I publish a new post."
-mathjax = false # enable MathJax support
-katex = true # enable KaTeX support
-favicon = "/icons/favicon.png"
+  mode = "auto" # color-mode → light,dark,toggle or auto
+  useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+  subtitle = "Welcome to my personal site! This is a website where you may learn about my journeys and other active projects. You can also see what I'm up to when I publish a new post."
+  mathjax = false # enable MathJax support
+  katex = true # enable KaTeX support
+  favicon = "/icons/favicon.png"
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
 
 [Taxonomies]
-tags = "tags"
+  tags = "tags"
 
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/G0246"
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/G0246"
 
 [[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/G0246"
+  name = "GitLab"
+  icon = "gitlab"
+  url = "https://gitlab.com/G0246"
 
 [[params.social]]
-name = "Buy me a coffee"
-icon = "buymeacoffee"
-url = "https://buymeacoffee.com/veutexus"
+  name = "Buy me a coffee"
+  icon = "buymeacoffee"
+  url = "https://buymeacoffee.com/veutexus"
 
 [[params.social]]
-name = "Ko-fi"
-icon = "kofi"
-url = "https://ko-fi.com/veutexus"
+  name = "Ko-fi"
+  icon = "kofi"
+  url = "https://ko-fi.com/veutexus"
 
 # Main menu items
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+  name = "Home"
+  url = "/"
+  weight = 1
 
 [[menu.main]]
-name = "About Me"
-url = "/about"
-weight = 2
+  name = "About Me"
+  url = "/about"
+  weight = 2
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 3
+  name = "All posts"
+  url = "/posts"
+  weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+  name = "Tags"
+  url = "/tags"
+  weight = 4
