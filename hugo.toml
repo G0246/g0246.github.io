@@ -34,15 +34,20 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/G0246"
 
-# [[params.social]]
-# name = "Twitter"
-# icon = "twitter"
-# url = ""
-
 [[params.social]]
 name = "GitLab"
 icon = "gitlab"
-url = "https://gitlab.com/G0246/"
+url = "https://gitlab.com/G0246"
+
+[[params.social]]
+name = "Buy me a coffee"
+icon = "buymeacoffee"
+url = "https://buymeacoffee.com/veutexus"
+
+[[params.social]]
+name = "Ko-fi"
+icon = "kofi"
+url = "https://ko-fi.com/veutexus"
 
 # Main menu items
 
@@ -52,7 +57,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "About Me"
 url = "/about"
 weight = 2
 
