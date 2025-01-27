@@ -1,12 +1,13 @@
-+++
-title = "About"
-description = "Self introduction"
-date = "2025-01-26"
-aliases = ["about-me","contact","whoami"]
-author = "Veutexus"
-+++
+---
+title: "About"
+description: "Self introduction"
+date: "2025-01-26"
+draft: false
+aliases: [about-me,contact,whoami]
+author: "Veutexus"
+---
 
-# Hello! I'm Veutexus
+## Hello! I'm Veutexus
 
 <img src="../../imgs/profile.png" alt="Profile" width="200" height="200">
 
