@@ -9,8 +9,6 @@ author: "Veutexus"
 
 ## Hello! I'm Veutexus
 
-<img src="../../imgs/profile.png" alt="Profile" width="200" height="200">
-
 ## About Me
 I'm just an ordinary developer based in Hong Kong. I'm passionate about learning new technologies and improving my coding skills. I also study Design and Technologies, where I explore the intersection of functionality and aesthetics. My goal is to create innovative solutions that enhance user experience while embracing modern design principles.
 
